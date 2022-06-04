@@ -1,0 +1,9 @@
+[submodule "minnie-test-frontent"]
+	path = minnie-test-frontent
+	url = https://github.com/soberservicesguy/minnie-test-frontent.git
+[submodule "minnie-test-import-data-script"]
+	path = minnie-test-import-data-script
+	url = https://github.com/soberservicesguy/minnie-test-import-data-script.git
+[submodule "minnie-test-backend"]
+	path = minnie-test-backend
+	url = https://github.com/soberservicesguy/minnie-test-backend.git
